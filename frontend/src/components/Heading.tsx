@@ -1,5 +1,5 @@
 const Heading = () => {
-
+  console.log("header");
   return <div>header</div>;
 };
 
